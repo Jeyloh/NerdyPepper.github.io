@@ -1,4 +1,4 @@
-# NerdyPepper.github.io
+# Start page
 GitHub page for My Startpage
 
 Created Entirely using HTML and CSS and a bit of JS
